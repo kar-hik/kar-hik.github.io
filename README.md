@@ -1,3 +1,4 @@
 This is my Portfolio 
 
-Note: Under Developmens
+Note: Under Development
+
