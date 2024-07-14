@@ -430,3 +430,15 @@ footer {
 footer p {
   text-align: center;
 }
+
+#projects .details-container:nth-child(1) .project-img {
+  width: 50%; /* Reduce the width by 50% */
+  height: auto; /* Maintain aspect ratio */
+  border-radius: 2rem;
+}
+
+#projects .details-container:nth-child(3) .project-img {
+  width: 50%; /* Reduce the width by 50% */
+  height: auto; /* Maintain aspect ratio */
+  /* You can adjust other properties as needed */
+}
